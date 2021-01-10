@@ -25,3 +25,7 @@ cwd-history enable
 ```console
 cwd-history disable
 ```
+
+## License
+
+[MIT](LICENSE.md) &copy; 2021 [Michaël Jacobs](https://jcbs.eu)
