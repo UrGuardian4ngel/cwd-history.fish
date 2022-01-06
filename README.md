@@ -28,4 +28,4 @@ cwd-history disable
 
 ## License
 
-[MIT](LICENSE.md) &copy; 2021 [Michaël Jacobs](https://jcbs.eu)
+[MIT](LICENSE.md) &copy; 2022 [Michaël Jacobs](https://jcbs.eu)
